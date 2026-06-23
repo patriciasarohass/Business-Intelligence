@@ -16,9 +16,9 @@ Management needs a single, reliable view to answer:
 - Microsoft PowerBI
 
 ## Folder Contents
-- `dataset/` — raw dataset (Excel)
-- `queries/` — SQL scripts used for data extraction & transformation
-- `dashboard/` — final dashboard (PDF)
+- `dataset.xlsx` — raw dataset (Excel)
+- `queries` — SQL scripts used for data extraction & transformation
+- `dashboard.pdf` — final dashboard
 
 ## Key Insights
 
