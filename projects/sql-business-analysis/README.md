@@ -27,7 +27,7 @@ Each task was solved using optimized SQL queries (joins, aggregations, condition
 
 ## Folder Contents
 - `ER Diagram.png` — Entity-Relationship Diagram
-- `queries` — all T1–T5 SQL queries (.sql)
+- `queries.pdf` — all T1–T5 SQL queries
 - `results/` — query outputs (T1_monthly.csv, T2_sla.csv, T3_top_products.csv, T4_sales_rep.csv, T5_segments.csv)
 - `executive_brief.pptx` — presentation slide containing query result visuals and business insights per task
 
